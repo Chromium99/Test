@@ -1,2 +1,1 @@
-# Test
-Testing Github
+This README was created for the purpose of testing the install of GitHub
